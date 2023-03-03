@@ -1,0 +1,1510 @@
+{
+  "courses": [
+    {
+      "type": "FullCourse",
+      "strategy": "BestPartialScore",
+      "name": "Programare Orientata pe Obiecte",
+      "teacher": {
+        "firstName": "Ion",
+        "lastName": "Mihalache"
+      },
+      "assistants": [
+        {
+          "firstName": "Alexandra",
+          "lastName": "Maria"
+        },
+        {
+          "firstName": "Andrei",
+          "lastName": "Georgescu"
+        }
+      ],
+      "groups": [
+        {
+          "ID": "312CC",
+          "assistant": {
+            "firstName": "Andrei",
+            "lastName": "Georgescu"
+          },
+          "students": [
+            {
+              "firstName": "Gigel",
+              "lastName": "Frone",
+              "mother": {
+                "firstName": "Maria",
+                "lastName": "Frone"
+              },
+              "father": {
+                "firstName": "Daniel",
+                "lastName": "Frone"
+              }
+            },
+            {
+              "firstName": "Cosmin",
+              "lastName": "Andrei",
+              "father": {
+                "firstName": "Vasile",
+                "lastName": "Andrei"
+              }
+            },
+            {
+              "firstName": "Ionel",
+              "lastName": "Dragomir",
+              "mother": {
+                "firstName": "Letitia",
+                "lastName": "Dragomir"
+              }
+            },
+            {
+              "firstName": "Florin",
+              "lastName": "Florea",
+              "mother": {
+                "firstName": "Adriana",
+                "lastName": "Florea"
+              },
+              "father": {
+                "firstName": "Catalin",
+                "lastName": "Florea"
+              }
+            },
+            {
+              "firstName": "Costel",
+              "lastName": "Busuioc",
+              "mother": {
+                "firstName": "Carmen",
+                "lastName": "Busuioc"
+              },
+              "father": {
+                "firstName": "Nelu",
+                "lastName": "Busuioc"
+              }
+            }
+          ]
+        },
+        {
+          "ID": "314CC",
+          "assistant": {
+            "firstName": "Alexandra",
+            "lastName": "Maria"
+          },
+          "students": [
+            {
+              "firstName": "Sebastian",
+              "lastName": "Moisescu",
+              "mother": {
+                "firstName": "Viorela",
+                "lastName": "Moisescu"
+              },
+              "father": {
+                "firstName": "Ionut",
+                "lastName": "Moisescu"
+              }
+            },
+            {
+              "firstName": "Larisa",
+              "lastName": "Oana",
+              "father": {
+                "firstName": "Alecu",
+                "lastName": "Oana"
+              }
+            },
+            {
+              "firstName": "Georgiana",
+              "lastName": "Calin",
+              "mother": {
+                "firstName": "Lidia",
+                "lastName": "Calin"
+              }
+            },
+            {
+              "firstName": "Dragos",
+              "lastName": "Barbu",
+              "mother": {
+                "firstName": "Anastasia",
+                "lastName": "Barbu"
+              },
+              "father": {
+                "firstName": "Lucian",
+                "lastName": "Barbu"
+              }
+            },
+            {
+              "firstName": "Alberto",
+              "lastName": "Ciobanu",
+              "mother": {
+                "firstName": "Mihaela",
+                "lastName": "Ciobanu"
+              },
+              "father": {
+                "firstName": "Emil",
+                "lastName": "Ciobanu"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paradigme de programare",
+      "type": "FullCourse",
+      "strategy": "BestExamScore",
+      "teacher": {
+        "firstName": "Sonia",
+        "lastName": "Lupu"
+      },
+      "assistants": [
+        {
+          "firstName": "Florentina",
+          "lastName": "Bratosin"
+        },
+        {
+          "firstName": "Horia",
+          "lastName": "Ghita"
+        }
+      ],
+      "groups": [
+        {
+          "ID": "312CC",
+          "assistant": {
+            "firstName": "Florentina",
+            "lastName": "Bratosin"
+          },
+          "students": [
+            {
+              "firstName": "Gigel",
+              "lastName": "Frone",
+              "mother": {
+                "firstName": "Maria",
+                "lastName": "Frone"
+              },
+              "father": {
+                "firstName": "Daniel",
+                "lastName": "Frone"
+              }
+            },
+            {
+              "firstName": "Cosmin",
+              "lastName": "Andrei",
+              "father": {
+                "firstName": "Vasile",
+                "lastName": "Andrei"
+              }
+            },
+            {
+              "firstName": "Ionel",
+              "lastName": "Dragomir",
+              "mother": {
+                "firstName": "Letitia",
+                "lastName": "Dragomir"
+              }
+            },
+            {
+              "firstName": "Florin",
+              "lastName": "Florea",
+              "mother": {
+                "firstName": "Adriana",
+                "lastName": "Florea"
+              },
+              "father": {
+                "firstName": "Catalin",
+                "lastName": "Florea"
+              }
+            },
+            {
+              "firstName": "Costel",
+              "lastName": "Busuioc",
+              "mother": {
+                "firstName": "Carmen",
+                "lastName": "Busuioc"
+              },
+              "father": {
+                "firstName": "Nelu",
+                "lastName": "Busuioc"
+              }
+            }
+          ]
+        },
+        {
+          "ID": "314CC",
+          "assistant": {
+            "firstName": "Horia",
+            "lastName": "Ghita"
+          },
+          "students": [
+            {
+              "firstName": "Sebastian",
+              "lastName": "Moisescu",
+              "mother": {
+                "firstName": "Viorela",
+                "lastName": "Moisescu"
+              },
+              "father": {
+                "firstName": "Ionut",
+                "lastName": "Moisescu"
+              }
+            },
+            {
+              "firstName": "Larisa",
+              "lastName": "Oana",
+              "father": {
+                "firstName": "Alecu",
+                "lastName": "Oana"
+              }
+            },
+            {
+              "firstName": "Georgiana",
+              "lastName": "Calin",
+              "mother": {
+                "firstName": "Lidia",
+                "lastName": "Calin"
+              }
+            },
+            {
+              "firstName": "Dragos",
+              "lastName": "Barbu",
+              "mother": {
+                "firstName": "Anastasia",
+                "lastName": "Barbu"
+              },
+              "father": {
+                "firstName": "Lucian",
+                "lastName": "Barbu"
+              }
+            },
+            {
+              "firstName": "Alberto",
+              "lastName": "Ciobanu",
+              "mother": {
+                "firstName": "Mihaela",
+                "lastName": "Ciobanu"
+              },
+              "father": {
+                "firstName": "Emil",
+                "lastName": "Ciobanu"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronica digitala",
+      "type": "PartialCourse",
+      "strategy": "BestTotalScore",
+      "teacher": {
+        "firstName": "George",
+        "lastName": "Dinu"
+      },
+      "assistants": [
+        {
+          "firstName": "Emilian",
+          "lastName": "Voinea"
+        },
+        {
+          "firstName": "Adrian",
+          "lastName": "Sava"
+        }
+      ],
+      "groups": [
+        {
+          "ID": "311CC",
+          "assistant": {
+            "firstName": "Adrian",
+            "lastName": "Sava"
+          },
+          "students": [
+            {
+              "firstName": "Livia",
+              "lastName": "Ursu"
+            },
+            {
+              "firstName": "Alfred",
+              "lastName": "Pop",
+              "father": {
+                "firstName": "Albert",
+                "lastName": "Pop"
+              }
+            },
+            {
+              "firstName": "Iulian",
+              "lastName": "Iancu",
+              "mother": {
+                "firstName": "Elena",
+                "lastName": "Iancu"
+              }
+            },
+            {
+              "firstName": "Sofia",
+              "lastName": "Negoita",
+              "mother": {
+                "firstName": "Ana",
+                "lastName": "Negoita"
+              },
+              "father": {
+                "firstName": "Marius",
+                "lastName": "Negoita"
+              }
+            },
+            {
+              "firstName": "Alma",
+              "lastName": "Dobrica",
+              "mother": {
+                "firstName": "Corina",
+                "lastName": "Dobrica"
+              },
+              "father": {
+                "firstName": "Cristi",
+                "lastName": "Dobrica"
+              }
+            }
+          ]
+        },
+        {
+          "ID": "313CC",
+          "assistant": {
+            "firstName": "Emilian",
+            "lastName": "Voinea"
+          },
+          "students": [
+            {
+              "firstName": "Cristian",
+              "lastName": "Manole",
+              "mother": {
+                "firstName": "Victoria",
+                "lastName": "Manole"
+              },
+              "father": {
+                "firstName": "Andrei",
+                "lastName": "Manole"
+              }
+            },
+            {
+              "firstName": "Denisa",
+              "lastName": "Pavel",
+              "father": {
+                "firstName": "Bogdan",
+                "lastName": "Pavel"
+              }
+            },
+            {
+              "firstName": "Alex",
+              "lastName": "Petrescu",
+              "mother": {
+                "firstName": "Monica",
+                "lastName": "Petrescu"
+              }
+            },
+            {
+              "firstName": "Cosmin",
+              "lastName": "Tomulescu"
+            },
+            {
+              "firstName": "Camelia",
+              "lastName": "Tunaru",
+              "mother": {
+                "firstName": "Petra",
+                "lastName": "Tunaru"
+              },
+              "father": {
+                "firstName": "Cristian",
+                "lastName": "Tunaru"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sisteme de operare",
+      "type": "FullCourse",
+      "strategy": "BestPartialScore",
+      "teacher": {
+        "firstName": "Razvan",
+        "lastName": "Calinescu"
+      },
+      "assistants": [
+        {
+          "firstName": "Alma",
+          "lastName": "Toma"
+        },
+        {
+          "firstName": "Cornel",
+          "lastName": "Cosma"
+        }
+      ],
+      "groups": [
+        {
+          "ID": "311CC",
+          "assistant": {
+            "firstName": "Alma",
+            "lastName": "Toma"
+          },
+          "students": [
+            {
+              "firstName": "Livia",
+              "lastName": "Ursu"
+            },
+            {
+              "firstName": "Alfred",
+              "lastName": "Pop",
+              "father": {
+                "firstName": "Albert",
+                "lastName": "Pop"
+              }
+            },
+            {
+              "firstName": "Iulian",
+              "lastName": "Iancu",
+              "mother": {
+                "firstName": "Elena",
+                "lastName": "Iancu"
+              }
+            },
+            {
+              "firstName": "Sofia",
+              "lastName": "Negoita",
+              "mother": {
+                "firstName": "Ana",
+                "lastName": "Negoita"
+              },
+              "father": {
+                "firstName": "Marius",
+                "lastName": "Negoita"
+              }
+            },
+            {
+              "firstName": "Alma",
+              "lastName": "Dobrica",
+              "mother": {
+                "firstName": "Corina",
+                "lastName": "Dobrica"
+              },
+              "father": {
+                "firstName": "Cristi",
+                "lastName": "Dobrica"
+              }
+            }
+          ]
+        },
+        {
+          "ID": "313CC",
+          "assistant": {
+            "firstName": "Cornel",
+            "lastName": "Cosma"
+          },
+          "students": [
+            {
+              "firstName": "Cristian",
+              "lastName": "Manole",
+              "mother": {
+                "firstName": "Victoria",
+                "lastName": "Manole"
+              },
+              "father": {
+                "firstName": "Andrei",
+                "lastName": "Manole"
+              }
+            },
+            {
+              "firstName": "Denisa",
+              "lastName": "Pavel",
+              "father": {
+                "firstName": "Bogdan",
+                "lastName": "Pavel"
+              }
+            },
+            {
+              "firstName": "Alex",
+              "lastName": "Petrescu",
+              "mother": {
+                "firstName": "Monica",
+                "lastName": "Petrescu"
+              }
+            },
+            {
+              "firstName": "Cosmin",
+              "lastName": "Tomulescu"
+            },
+            {
+              "firstName": "Camelia",
+              "lastName": "Tunaru",
+              "mother": {
+                "firstName": "Petra",
+                "lastName": "Tunaru"
+              },
+              "father": {
+                "firstName": "Cristian",
+                "lastName": "Tunaru"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "examScores": [
+    {
+      "teacher": {
+        "firstName": "Ion",
+        "lastName": "Mihalache"
+      },
+      "student": {
+        "firstName": "Ionel",
+        "lastName": "Dragomir"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 2.35
+    },
+    {
+      "teacher": {
+        "firstName": "Ion",
+        "lastName": "Mihalache"
+      },
+      "student": {
+        "firstName": "Gigel",
+        "lastName": "Frone"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 1.2
+    },
+    {
+      "teacher": {
+        "firstName": "Ion",
+        "lastName": "Mihalache"
+      },
+      "student": {
+        "firstName": "Costel",
+        "lastName": "Busuioc"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 1.6
+    },
+    {
+      "teacher": {
+        "firstName": "Ion",
+        "lastName": "Mihalache"
+      },
+      "student": {
+        "firstName": "Florin",
+        "lastName": "Florea"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 4.1
+    },
+    {
+      "teacher": {
+        "firstName": "Ion",
+        "lastName": "Mihalache"
+      },
+      "student": {
+        "firstName": "Cosmin",
+        "lastName": "Andrei"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 2.35
+    },
+    {
+      "teacher": {
+        "firstName": "Ion",
+        "lastName": "Mihalache"
+      },
+      "student": {
+        "firstName": "Sebastian",
+        "lastName": "Moisescu"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 0.85
+    },
+    {
+      "teacher": {
+        "firstName": "Ion",
+        "lastName": "Mihalache"
+      },
+      "student": {
+        "firstName": "Larisa",
+        "lastName": "Oana"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 1.5
+    },
+    {
+      "teacher": {
+        "firstName": "Ion",
+        "lastName": "Mihalache"
+      },
+      "student": {
+        "firstName": "Georgiana",
+        "lastName": "Calin"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 3.75
+    },
+    {
+      "teacher": {
+        "firstName": "Ion",
+        "lastName": "Mihalache"
+      },
+      "student": {
+        "firstName": "Dragos",
+        "lastName": "Barbu"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 5
+    },
+    {
+      "teacher": {
+        "firstName": "Ion",
+        "lastName": "Mihalache"
+      },
+      "student": {
+        "firstName": "Alberto",
+        "lastName": "Ciobanu"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 3.25
+    },
+    {
+      "teacher": {
+        "firstName": "Sonia",
+        "lastName": "Lupu"
+      },
+      "student": {
+        "firstName": "Ionel",
+        "lastName": "Dragomir"
+      },
+      "course": "Paradigme de programare",
+      "grade": 1.15
+    },
+    {
+      "teacher": {
+        "firstName": "Sonia",
+        "lastName": "Lupu"
+      },
+      "student": {
+        "firstName": "Gigel",
+        "lastName": "Frone"
+      },
+      "course": "Paradigme de programare",
+      "grade": 3.7
+    },
+    {
+      "teacher": {
+        "firstName": "Sonia",
+        "lastName": "Lupu"
+      },
+      "student": {
+        "firstName": "Costel",
+        "lastName": "Busuioc"
+      },
+      "course": "Paradigme de programare",
+      "grade": 4
+    },
+    {
+      "teacher": {
+        "firstName": "Sonia",
+        "lastName": "Lupu"
+      },
+      "student": {
+        "firstName": "Florin",
+        "lastName": "Florea"
+      },
+      "course": "Paradigme de programare",
+      "grade": 2.35
+    },
+    {
+      "teacher": {
+        "firstName": "Sonia",
+        "lastName": "Lupu"
+      },
+      "student": {
+        "firstName": "Cosmin",
+        "lastName": "Andrei"
+      },
+      "course": "Paradigme de programare",
+      "grade": 2.9
+    },
+    {
+      "teacher": {
+        "firstName": "Sonia",
+        "lastName": "Lupu"
+      },
+      "student": {
+        "firstName": "Sebastian",
+        "lastName": "Moisescu"
+      },
+      "course": "Paradigme de programare",
+      "grade": 1.75
+    },
+    {
+      "teacher": {
+        "firstName": "Sonia",
+        "lastName": "Lupu"
+      },
+      "student": {
+        "firstName": "Larisa",
+        "lastName": "Oana"
+      },
+      "course": "Paradigme de programare",
+      "grade": 2.25
+    },
+    {
+      "teacher": {
+        "firstName": "Sonia",
+        "lastName": "Lupu"
+      },
+      "student": {
+        "firstName": "Georgiana",
+        "lastName": "Calin"
+      },
+      "course": "Paradigme de programare",
+      "grade": 4.2
+    },
+    {
+      "teacher": {
+        "firstName": "Sonia",
+        "lastName": "Lupu"
+      },
+      "student": {
+        "firstName": "Dragos",
+        "lastName": "Barbu"
+      },
+      "course": "Paradigme de programare",
+      "grade": 3.6
+    },
+    {
+      "teacher": {
+        "firstName": "Sonia",
+        "lastName": "Lupu"
+      },
+      "student": {
+        "firstName": "Alberto",
+        "lastName": "Ciobanu"
+      },
+      "course": "Paradigme de programare",
+      "grade": 1.95
+    },
+    {
+      "teacher": {
+        "firstName": "George",
+        "lastName": "Dinu"
+      },
+      "student": {
+        "firstName": "Livia",
+        "lastName": "Ursu"
+      },
+      "course": "Electronica digitala",
+      "grade": 3.45
+    },
+    {
+      "teacher": {
+        "firstName": "George",
+        "lastName": "Dinu"
+      },
+      "student": {
+        "firstName": "Alfred",
+        "lastName": "Pop"
+      },
+      "course": "Electronica digitala",
+      "grade": 1.75
+    },
+    {
+      "teacher": {
+        "firstName": "George",
+        "lastName": "Dinu"
+      },
+      "student": {
+        "firstName": "Iulian",
+        "lastName": "Iancu"
+      },
+      "course": "Electronica digitala",
+      "grade": 2.5
+    },
+    {
+      "teacher": {
+        "firstName": "George",
+        "lastName": "Dinu"
+      },
+      "student": {
+        "firstName": "Sofia",
+        "lastName": "Negoita"
+      },
+      "course": "Electronica digitala",
+      "grade": 0.6
+    },
+    {
+      "teacher": {
+        "firstName": "George",
+        "lastName": "Dinu"
+      },
+      "student": {
+        "firstName": "Alma",
+        "lastName": "Dobrica"
+      },
+      "course": "Electronica digitala",
+      "grade": 3.95
+    },
+    {
+      "teacher": {
+        "firstName": "George",
+        "lastName": "Dinu"
+      },
+      "student": {
+        "firstName": "Cristian",
+        "lastName": "Manole"
+      },
+      "course": "Electronica digitala",
+      "grade": 5
+    },
+    {
+      "teacher": {
+        "firstName": "George",
+        "lastName": "Dinu"
+      },
+      "student": {
+        "firstName": "Denisa",
+        "lastName": "Pavel"
+      },
+      "course": "Electronica digitala",
+      "grade": 3.55
+    },
+    {
+      "teacher": {
+        "firstName": "George",
+        "lastName": "Dinu"
+      },
+      "student": {
+        "firstName": "Alex",
+        "lastName": "Petrescu"
+      },
+      "course": "Electronica digitala",
+      "grade": 2.15
+    },
+    {
+      "teacher": {
+        "firstName": "George",
+        "lastName": "Dinu"
+      },
+      "student": {
+        "firstName": "Cosmin",
+        "lastName": "Tomulescu"
+      },
+      "course": "Electronica digitala",
+      "grade": 1
+    },
+    {
+      "teacher": {
+        "firstName": "George",
+        "lastName": "Dinu"
+      },
+      "student": {
+        "firstName": "Camelia",
+        "lastName": "Tunaru"
+      },
+      "course": "Electronica digitala",
+      "grade": 2.2
+    },
+    {
+      "teacher": {
+        "firstName": "Razvan",
+        "lastName": "Calinescu"
+      },
+      "student": {
+        "firstName": "Livia",
+        "lastName": "Ursu"
+      },
+      "course": "Sisteme de operare",
+      "grade": 1.65
+    },
+    {
+      "teacher": {
+        "firstName": "Razvan",
+        "lastName": "Calinescu"
+      },
+      "student": {
+        "firstName": "Alfred",
+        "lastName": "Pop"
+      },
+      "course": "Sisteme de operare",
+      "grade": 3.35
+    },
+    {
+      "teacher": {
+        "firstName": "Razvan",
+        "lastName": "Calinescu"
+      },
+      "student": {
+        "firstName": "Iulian",
+        "lastName": "Iancu"
+      },
+      "course": "Sisteme de operare",
+      "grade": 2.8
+    },
+    {
+      "teacher": {
+        "firstName": "Razvan",
+        "lastName": "Calinescu"
+      },
+      "student": {
+        "firstName": "Sofia",
+        "lastName": "Negoita"
+      },
+      "course": "Sisteme de operare",
+      "grade": 4.15
+    },
+    {
+      "teacher": {
+        "firstName": "Razvan",
+        "lastName": "Calinescu"
+      },
+      "student": {
+        "firstName": "Alma",
+        "lastName": "Dobrica"
+      },
+      "course": "Sisteme de operare",
+      "grade": 0.55
+    },
+    {
+      "teacher": {
+        "firstName": "Razvan",
+        "lastName": "Calinescu"
+      },
+      "student": {
+        "firstName": "Cristian",
+        "lastName": "Manole"
+      },
+      "course": "Sisteme de operare",
+      "grade": 3.65
+    },
+    {
+      "teacher": {
+        "firstName": "Razvan",
+        "lastName": "Calinescu"
+      },
+      "student": {
+        "firstName": "Denisa",
+        "lastName": "Pavel"
+      },
+      "course": "Sisteme de operare",
+      "grade": 2.1
+    },
+    {
+      "teacher": {
+        "firstName": "Razvan",
+        "lastName": "Calinescu"
+      },
+      "student": {
+        "firstName": "Alex",
+        "lastName": "Petrescu"
+      },
+      "course": "Sisteme de operare",
+      "grade": 3.1
+    },
+    {
+      "teacher": {
+        "firstName": "Razvan",
+        "lastName": "Calinescu"
+      },
+      "student": {
+        "firstName": "Cosmin",
+        "lastName": "Tomulescu"
+      },
+      "course": "Sisteme de operare",
+      "grade": 3.3
+    },
+    {
+      "teacher": {
+        "firstName": "Razvan",
+        "lastName": "Calinescu"
+      },
+      "student": {
+        "firstName": "Camelia",
+        "lastName": "Tunaru"
+      },
+      "course": "Sisteme de operare",
+      "grade": 1.45
+    }
+  ],
+  "partialScores": [
+    {
+      "assistant": {
+        "firstName": "Andrei",
+        "lastName": "Georgescu"
+      },
+      "student": {
+        "firstName": "Ionel",
+        "lastName": "Dragomir"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 3.4
+    },
+    {
+      "assistant": {
+        "firstName": "Andrei",
+        "lastName": "Georgescu"
+      },
+      "student": {
+        "firstName": "Gigel",
+        "lastName": "Frone"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 2.75
+    },
+    {
+      "assistant": {
+        "firstName": "Andrei",
+        "lastName": "Georgescu"
+      },
+      "student": {
+        "firstName": "Costel",
+        "lastName": "Busuioc"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 3.5
+    },
+    {
+      "assistant": {
+        "firstName": "Andrei",
+        "lastName": "Georgescu"
+      },
+      "student": {
+        "firstName": "Florin",
+        "lastName": "Florea"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 4.85
+    },
+    {
+      "assistant": {
+        "firstName": "Andrei",
+        "lastName": "Georgescu"
+      },
+      "student": {
+        "firstName": "Cosmin",
+        "lastName": "Andrei"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 2.35
+    },
+    {
+      "assistant": {
+        "firstName": "Alexandra",
+        "lastName": "Maria"
+      },
+      "student": {
+        "firstName": "Sebastian",
+        "lastName": "Moisescu"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 2.15
+    },
+    {
+      "assistant": {
+        "firstName": "Alexandra",
+        "lastName": "Maria"
+      },
+      "student": {
+        "firstName": "Larisa",
+        "lastName": "Oana"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 0.4
+    },
+    {
+      "assistant": {
+        "firstName": "Alexandra",
+        "lastName": "Maria"
+      },
+      "student": {
+        "firstName": "Georgiana",
+        "lastName": "Calin"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 3.65
+    },
+    {
+      "assistant": {
+        "firstName": "Alexandra",
+        "lastName": "Maria"
+      },
+      "student": {
+        "firstName": "Dragos",
+        "lastName": "Barbu"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 4.9
+    },
+    {
+      "assistant": {
+        "firstName": "Alexandra",
+        "lastName": "Maria"
+      },
+      "student": {
+        "firstName": "Alberto",
+        "lastName": "Ciobanu"
+      },
+      "course": "Programare Orientata pe Obiecte",
+      "grade": 2.1
+    },
+    {
+      "assistant": {
+        "firstName": "Florentina",
+        "lastName": "Bratosin"
+      },
+      "student": {
+        "firstName": "Ionel",
+        "lastName": "Dragomir"
+      },
+      "course": "Paradigme de programare",
+      "grade": 4.35
+    },
+    {
+      "assistant": {
+        "firstName": "Florentina",
+        "lastName": "Bratosin"
+      },
+      "student": {
+        "firstName": "Gigel",
+        "lastName": "Frone"
+      },
+      "course": "Paradigme de programare",
+      "grade": 1.25
+    },
+    {
+      "assistant": {
+        "firstName": "Florentina",
+        "lastName": "Bratosin"
+      },
+      "student": {
+        "firstName": "Costel",
+        "lastName": "Busuioc"
+      },
+      "course": "Paradigme de programare",
+      "grade": 4.65
+    },
+    {
+      "assistant": {
+        "firstName": "Florentina",
+        "lastName": "Bratosin"
+      },
+      "student": {
+        "firstName": "Florin",
+        "lastName": "Florea"
+      },
+      "course": "Paradigme de programare",
+      "grade": 2.1
+    },
+    {
+      "assistant": {
+        "firstName": "Florentina",
+        "lastName": "Bratosin"
+      },
+      "student": {
+        "firstName": "Cosmin",
+        "lastName": "Andrei"
+      },
+      "course": "Paradigme de programare",
+      "grade": 3.4
+    },
+    {
+      "assistant": {
+        "firstName": "Horia",
+        "lastName": "Ghita"
+      },
+      "student": {
+        "firstName": "Sebastian",
+        "lastName": "Moisescu"
+      },
+      "course": "Paradigme de programare",
+      "grade": 0.7
+    },
+    {
+      "assistant": {
+        "firstName": "Horia",
+        "lastName": "Ghita"
+      },
+      "student": {
+        "firstName": "Larisa",
+        "lastName": "Oana"
+      },
+      "course": "Paradigme de programare",
+      "grade": 3.25
+    },
+    {
+      "assistant": {
+        "firstName": "Horia",
+        "lastName": "Ghita"
+      },
+      "student": {
+        "firstName": "Georgiana",
+        "lastName": "Calin"
+      },
+      "course": "Paradigme de programare",
+      "grade": 2.45
+    },
+    {
+      "assistant": {
+        "firstName": "Horia",
+        "lastName": "Ghita"
+      },
+      "student": {
+        "firstName": "Dragos",
+        "lastName": "Barbu"
+      },
+      "course": "Paradigme de programare",
+      "grade": 4.25
+    },
+    {
+      "assistant": {
+        "firstName": "Horia",
+        "lastName": "Ghita"
+      },
+      "student": {
+        "firstName": "Alberto",
+        "lastName": "Ciobanu"
+      },
+      "course": "Paradigme de programare",
+      "grade": 1.3
+    },
+    {
+      "assistant": {
+        "firstName": "Adrian",
+        "lastName": "Sava"
+      },
+      "student": {
+        "firstName": "Livia",
+        "lastName": "Ursu"
+      },
+      "course": "Electronica digitala",
+      "grade": 2.05
+    },
+    {
+      "assistant": {
+        "firstName": "Adrian",
+        "lastName": "Sava"
+      },
+      "student": {
+        "firstName": "Alfred",
+        "lastName": "Pop"
+      },
+      "course": "Electronica digitala",
+      "grade": 4.15
+    },
+    {
+      "assistant": {
+        "firstName": "Adrian",
+        "lastName": "Sava"
+      },
+      "student": {
+        "firstName": "Iulian",
+        "lastName": "Iancu"
+      },
+      "course": "Electronica digitala",
+      "grade": 1.75
+    },
+    {
+      "assistant": {
+        "firstName": "Adrian",
+        "lastName": "Sava"
+      },
+      "student": {
+        "firstName": "Sofia",
+        "lastName": "Negoita"
+      },
+      "course": "Electronica digitala",
+      "grade": 0.85
+    },
+    {
+      "assistant": {
+        "firstName": "Adrian",
+        "lastName": "Sava"
+      },
+      "student": {
+        "firstName": "Alma",
+        "lastName": "Dobrica"
+      },
+      "course": "Electronica digitala",
+      "grade": 1.15
+    },
+    {
+      "assistant": {
+        "firstName": "Emilian",
+        "lastName": "Voinea"
+      },
+      "student": {
+        "firstName": "Cristian",
+        "lastName": "Manole"
+      },
+      "course": "Electronica digitala",
+      "grade": 3.85
+    },
+    {
+      "assistant": {
+        "firstName": "Emilian",
+        "lastName": "Voinea"
+      },
+      "student": {
+        "firstName": "Denisa",
+        "lastName": "Pavel"
+      },
+      "course": "Electronica digitala",
+      "grade": 3.35
+    },
+    {
+      "assistant": {
+        "firstName": "Emilian",
+        "lastName": "Voinea"
+      },
+      "student": {
+        "firstName": "Alex",
+        "lastName": "Petrescu"
+      },
+      "course": "Electronica digitala",
+      "grade": 1.6
+    },
+    {
+      "assistant": {
+        "firstName": "Emilian",
+        "lastName": "Voinea"
+      },
+      "student": {
+        "firstName": "Cosmin",
+        "lastName": "Tomulescu"
+      },
+      "course": "Electronica digitala",
+      "grade": 3.95
+    },
+    {
+      "assistant": {
+        "firstName": "Emilian",
+        "lastName": "Voinea"
+      },
+      "student": {
+        "firstName": "Camelia",
+        "lastName": "Tunaru"
+      },
+      "course": "Electronica digitala",
+      "grade": 2.35
+    },
+    {
+      "assistant": {
+        "firstName": "Alma",
+        "lastName": "Toma"
+      },
+      "student": {
+        "firstName": "Livia",
+        "lastName": "Ursu"
+      },
+      "course": "Sisteme de operare",
+      "grade": 3.45
+    },
+    {
+      "assistant": {
+        "firstName": "Alma",
+        "lastName": "Toma"
+      },
+      "student": {
+        "firstName": "Alfred",
+        "lastName": "Pop"
+      },
+      "course": "Sisteme de operare",
+      "grade": 2.7
+    },
+    {
+      "assistant": {
+        "firstName": "Alma",
+        "lastName": "Toma"
+      },
+      "student": {
+        "firstName": "Iulian",
+        "lastName": "Iancu"
+      },
+      "course": "Sisteme de operare",
+      "grade": 3.4
+    },
+    {
+      "assistant": {
+        "firstName": "Alma",
+        "lastName": "Toma"
+      },
+      "student": {
+        "firstName": "Sofia",
+        "lastName": "Negoita"
+      },
+      "course": "Sisteme de operare",
+      "grade": 2.3
+    },
+    {
+      "assistant": {
+        "firstName": "Alma",
+        "lastName": "Toma"
+      },
+      "student": {
+        "firstName": "Alma",
+        "lastName": "Dobrica"
+      },
+      "course": "Sisteme de operare",
+      "grade": 3.15
+    },
+    {
+      "assistant": {
+        "firstName": "Cornel",
+        "lastName": "Cosma"
+      },
+      "student": {
+        "firstName": "Cristian",
+        "lastName": "Manole"
+      },
+      "course": "Sisteme de operare",
+      "grade": 2.4
+    },
+    {
+      "assistant": {
+        "firstName": "Cornel",
+        "lastName": "Cosma"
+      },
+      "student": {
+        "firstName": "Denisa",
+        "lastName": "Pavel"
+      },
+      "course": "Sisteme de operare",
+      "grade": 3
+    },
+    {
+      "assistant": {
+        "firstName": "Cornel",
+        "lastName": "Cosma"
+      },
+      "student": {
+        "firstName": "Alex",
+        "lastName": "Petrescu"
+      },
+      "course": "Sisteme de operare",
+      "grade": 0.8
+    },
+    {
+      "assistant": {
+        "firstName": "Cornel",
+        "lastName": "Cosma"
+      },
+      "student": {
+        "firstName": "Cosmin",
+        "lastName": "Tomulescu"
+      },
+      "course": "Sisteme de operare",
+      "grade": 1.9
+    },
+    {
+      "assistant": {
+        "firstName": "Cornel",
+        "lastName": "Cosma"
+      },
+      "student": {
+        "firstName": "Camelia",
+        "lastName": "Tunaru"
+      },
+      "course": "Sisteme de operare",
+      "grade": 4.65
+    }
+  ]
+}
+
+
